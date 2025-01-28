@@ -1,0 +1,50 @@
+body {
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2 {
+    color:rgb(241, 209, 1) ;
+}
+h1 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 130%;
+}
+h1, h2 {
+    background-color: rgb(8, 94, 243);
+}
+#guarantee {
+    border-color: black
+    border-width: 1px;
+    border-style: solid;
+    background-color: yellow;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 50px;
+    margin: 35px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-style: ridge;
+    border-width: thick;
+    border-radius: 17px;
+}
+#playing {
+    border-color: black
+    border-width: 1px;
+    border-style: solid;
+    background-color: yellow;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 50px;
+    margin: 35px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-style: ridge;
+    border-width: thick;
+    border-radius: 17px;
+}

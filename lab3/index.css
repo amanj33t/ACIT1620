@@ -1,0 +1,110 @@
+header {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color: white; border-width: thin;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 25px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+    
+h1 {
+    background-color: black;
+    color: rgb(185, 125, 0);
+    font-weight: bold;
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a.AboutMe {
+    color:rgb(185, 125, 0);
+}
+
+a.AboutMe:link {
+    text-decoration:rgb(185, 125, 0);
+}
+
+a.Skills {
+    color:rgb(185, 125, 0);
+}
+
+a.Skills:link {
+    text-decoration:rgb(185, 125, 0);
+}
+
+a.Projects {
+    color:rgb(185, 125, 0);
+}
+
+a.Projects:link {
+    text-decoration:rgb(185, 125, 0);
+}
+
+
+
+#toplist {
+    background-color: black;
+    color: rgb(185, 125, 0);
+    font-weight: bold;
+    font-size: 115%;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+#AboutMe {
+    border-style: ridge;
+    border-width: 1px;
+    border-color: rgb(185, 125, 0);
+    padding: 25px;
+    padding-left: 50;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    background-color: black;
+    color: rgb(185, 125, 0);
+}
+
+#Skills {
+    border-style: ridge;
+    border-width: 1px;
+    border-color: rgb(185, 125, 0);
+    padding: 25px;
+    padding-left: 50;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    background-color: black;
+    color: rgb(185, 125, 0);
+}
+
+#Projects {
+    border-style: ridge;
+    border-width: 1px;
+    border-color: rgb(185, 125, 0);
+    padding: 25px;
+    padding-left: 50;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    background-color: black;
+    color: rgb(185, 125, 0);
+}
+
+footer{
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    font-weight: bolder;
+    color: rgb(185, 125, 0);
+    text-align: center;
+    margin-top: 50px;
+}
